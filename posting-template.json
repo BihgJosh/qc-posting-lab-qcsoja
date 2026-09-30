@@ -1,0 +1,362 @@
+{
+  "source": "Main app saved posting structure; identities removed",
+  "retrievedAt": "2026-09-30T13:15:06.060Z",
+  "postings": [
+    {
+      "id": "thursday-main-auditorium",
+      "day": "Thursday",
+      "name": "Main auditorium",
+      "role": "Order & service flow",
+      "columns": [
+        "Team"
+      ],
+      "rows": [
+        {
+          "id": "thursday-main-auditorium-row-1",
+          "label": "Thursday Service",
+          "capacities": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thursday-overflow",
+      "day": "Thursday",
+      "name": "Overflow",
+      "role": "Flow & support",
+      "columns": [
+        "Row 1",
+        "Row 2",
+        "Row 3",
+        "Row 4"
+      ],
+      "rows": [
+        {
+          "id": "thursday-overflow-row-1",
+          "label": "Thursday Service",
+          "capacities": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thursday-children-section",
+      "day": "Thursday",
+      "name": "Children section",
+      "role": "Safety & order",
+      "columns": [
+        "Entrance",
+        "Exit"
+      ],
+      "rows": [
+        {
+          "id": "thursday-children-section-row-1",
+          "label": "Thursday Service",
+          "capacities": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thursday-outside",
+      "day": "Thursday",
+      "name": "Outside",
+      "role": "Exterior flow & access",
+      "columns": [
+        "Position 1",
+        "Position 2",
+        "Position 3"
+      ],
+      "rows": [
+        {
+          "id": "thursday-outside-row-1",
+          "label": "Thursday Service",
+          "capacities": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thursday-observation",
+      "day": "Thursday",
+      "name": "Observation",
+      "role": "Quality monitoring",
+      "columns": [
+        "Observer"
+      ],
+      "rows": [
+        {
+          "id": "thursday-observation-row-1",
+          "label": "Thursday Service",
+          "capacities": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thursday-timers",
+      "day": "Thursday",
+      "name": "Timers",
+      "role": "Service timing & coordination",
+      "columns": [
+        "Timer"
+      ],
+      "rows": [
+        {
+          "id": "thursday-timers-row-1",
+          "label": "Thursday Service",
+          "capacities": [
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sunday-service-managers",
+      "day": "Sunday",
+      "name": "Service managers",
+      "role": "Service leadership & coordination",
+      "columns": [
+        "Manager"
+      ],
+      "rows": [
+        {
+          "id": "sunday-service-managers-row-1",
+          "label": "1st & 2nd",
+          "capacities": [
+            1
+          ]
+        },
+        {
+          "id": "sunday-service-managers-row-2",
+          "label": "3rd & 4th",
+          "capacities": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sunday-children-section",
+      "day": "Sunday",
+      "name": "Children section",
+      "role": "Safety & order",
+      "columns": [
+        "Entrance",
+        "Exit"
+      ],
+      "rows": [
+        {
+          "id": "sunday-children-section-row-1",
+          "label": "1st Service",
+          "capacities": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": "sunday-children-section-row-2",
+          "label": "2nd Service",
+          "capacities": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": "sunday-children-section-row-3",
+          "label": "3rd Service",
+          "capacities": [
+            1,
+            1
+          ]
+        },
+        {
+          "id": "sunday-children-section-row-4",
+          "label": "4th Service",
+          "capacities": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sunday-overflow",
+      "day": "Sunday",
+      "name": "Overflow tent",
+      "role": "Flow & support",
+      "columns": [
+        "Row 1",
+        "Row 2",
+        "Row 3",
+        "Row 4"
+      ],
+      "rows": [
+        {
+          "id": "sunday-overflow-row-1",
+          "label": "1st Service",
+          "capacities": [
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "sunday-overflow-row-2",
+          "label": "2nd Service",
+          "capacities": [
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "sunday-overflow-row-3",
+          "label": "3rd Service",
+          "capacities": [
+            1,
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "sunday-overflow-row-4",
+          "label": "4th Service",
+          "capacities": [
+            1,
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sunday-outside",
+      "day": "Sunday",
+      "name": "Outside",
+      "role": "Exterior flow & access",
+      "columns": [
+        "Position 1",
+        "Position 2",
+        "Position 3"
+      ],
+      "rows": [
+        {
+          "id": "sunday-outside-row-1",
+          "label": "1st Service",
+          "capacities": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "sunday-outside-row-2",
+          "label": "2nd Service",
+          "capacities": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "sunday-outside-row-3",
+          "label": "3rd Service",
+          "capacities": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "id": "sunday-outside-row-4",
+          "label": "4th Service",
+          "capacities": [
+            1,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sunday-observation",
+      "day": "Sunday",
+      "name": "Observation",
+      "role": "Quality monitoring",
+      "columns": [
+        "Observer"
+      ],
+      "rows": [
+        {
+          "id": "sunday-observation-row-1",
+          "label": "1st Service",
+          "capacities": [
+            1
+          ]
+        },
+        {
+          "id": "sunday-observation-row-2",
+          "label": "2nd Service",
+          "capacities": [
+            1
+          ]
+        },
+        {
+          "id": "sunday-observation-row-3",
+          "label": "3rd Service",
+          "capacities": [
+            1
+          ]
+        },
+        {
+          "id": "sunday-observation-row-4",
+          "label": "4th Service",
+          "capacities": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sunday-timers",
+      "day": "Sunday",
+      "name": "QC timer",
+      "role": "Service timing & coordination",
+      "columns": [
+        "Timer"
+      ],
+      "rows": [
+        {
+          "id": "sunday-timers-row-1",
+          "label": "1st & 2nd",
+          "capacities": [
+            1
+          ]
+        },
+        {
+          "id": "sunday-timers-row-2",
+          "label": "3rd & 4th",
+          "capacities": [
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

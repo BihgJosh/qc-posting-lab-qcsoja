@@ -1,0 +1,486 @@
+{
+  "members": [
+    {
+      "email": "demo1@example.invalid",
+      "name": "Ada Sample",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo2@example.invalid",
+      "name": "Tunde Example",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo3@example.invalid",
+      "name": "Chika Test",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo4@example.invalid",
+      "name": "Bola Sample",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo5@example.invalid",
+      "name": "Emeka Example",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo6@example.invalid",
+      "name": "Zainab Test",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo7@example.invalid",
+      "name": "Femi Sample",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo8@example.invalid",
+      "name": "Amara Example",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo9@example.invalid",
+      "name": "Ibrahim Test",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo10@example.invalid",
+      "name": "Ngozi Sample",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo11@example.invalid",
+      "name": "David Example",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "email": "demo12@example.invalid",
+      "name": "Esther Test",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ]
+    },
+    {
+      "name": "Kemi Example",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo13@example.invalid"
+    },
+    {
+      "name": "Samuel Test",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo14@example.invalid"
+    },
+    {
+      "name": "Aisha Sample",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo15@example.invalid"
+    },
+    {
+      "name": "Daniel Example",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo16@example.invalid"
+    },
+    {
+      "name": "Nneka Test",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo17@example.invalid"
+    },
+    {
+      "name": "Yusuf Sample",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo18@example.invalid"
+    },
+    {
+      "name": "Grace Example",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo19@example.invalid"
+    },
+    {
+      "name": "Segun Test",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo20@example.invalid"
+    },
+    {
+      "name": "Mary Sample",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo21@example.invalid"
+    },
+    {
+      "name": "Uche Example",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo22@example.invalid"
+    },
+    {
+      "name": "Deborah Test",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo23@example.invalid"
+    },
+    {
+      "name": "Musa Sample",
+      "eligibleAreas": [
+        "Main auditorium",
+        "Children section",
+        "Overflow tent",
+        "Overflow",
+        "Outside",
+        "Observation",
+        "QC timer",
+        "Timers"
+      ],
+      "email": "demo24@example.invalid"
+    },
+    {
+      "name": "Ruth Example",
+      "eligibleAreas": [
+        "Service managers"
+      ],
+      "email": "demo25@example.invalid"
+    },
+    {
+      "name": "Peter Test",
+      "eligibleAreas": [
+        "Service managers"
+      ],
+      "email": "demo26@example.invalid"
+    },
+    {
+      "name": "Janet Sample",
+      "eligibleAreas": [
+        "Service managers"
+      ],
+      "email": "demo27@example.invalid"
+    },
+    {
+      "name": "Paul Example",
+      "eligibleAreas": [
+        "Service managers"
+      ],
+      "email": "demo28@example.invalid"
+    }
+  ],
+  "posts": [
+    {
+      "area": "Children section",
+      "submitted_by_email": "demo1@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Ada Sample",
+      "reporter_email": "demo1@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Overflow tent",
+      "submitted_by_email": "demo2@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Tunde Example",
+      "reporter_email": "demo2@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Outside",
+      "submitted_by_email": "demo3@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Chika Test",
+      "reporter_email": "demo3@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Children section",
+      "submitted_by_email": "demo4@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Bola Sample",
+      "reporter_email": "demo4@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Overflow tent",
+      "submitted_by_email": "demo5@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Emeka Example",
+      "reporter_email": "demo5@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Outside",
+      "submitted_by_email": "demo6@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Zainab Test",
+      "reporter_email": "demo6@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Children section",
+      "submitted_by_email": "demo7@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Femi Sample",
+      "reporter_email": "demo7@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Overflow tent",
+      "submitted_by_email": "demo8@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Amara Example",
+      "reporter_email": "demo8@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Outside",
+      "submitted_by_email": "demo9@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Ibrahim Test",
+      "reporter_email": "demo9@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Children section",
+      "submitted_by_email": "demo10@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Ngozi Sample",
+      "reporter_email": "demo10@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Overflow tent",
+      "submitted_by_email": "demo11@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "David Example",
+      "reporter_email": "demo11@example.invalid",
+      "service": "1st Service"
+    },
+    {
+      "area": "Outside",
+      "submitted_by_email": "demo12@example.invalid",
+      "report_date": "2026-09-27",
+      "reporter_name": "Esther Test",
+      "reporter_email": "demo12@example.invalid",
+      "service": "1st Service"
+    }
+  ],
+  "observers": [
+    {
+      "report_date": "2026-09-27",
+      "observer_name": "Ngozi Sample",
+      "reporter_email": "demo10@example.invalid",
+      "service": "2nd Service"
+    },
+    {
+      "report_date": "2026-09-27",
+      "observer_name": "David Example",
+      "reporter_email": "demo11@example.invalid",
+      "service": "2nd Service"
+    },
+    {
+      "report_date": "2026-09-27",
+      "observer_name": "Esther Test",
+      "reporter_email": "demo12@example.invalid",
+      "service": "2nd Service"
+    }
+  ]
+}
